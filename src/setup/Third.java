@@ -7,3 +7,8 @@ public class Third {
     // more code
 
 }
+
+
+// added main method
+
+   // added more
