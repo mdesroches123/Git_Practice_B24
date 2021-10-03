@@ -1,6 +1,6 @@
 package setup;
 
-public class Third {
+public class ThirdTC002 {
 
     // add more dile
 

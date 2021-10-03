@@ -1,6 +1,6 @@
 package setup;
 
-public class Second {
+public class SecondTc001 {
 
     public void m(){
         System.out.println("First method");
